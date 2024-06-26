@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DFROBOTgamepad](https://github.com/manuelcsilva/DFROBOTgamepad)
 
-- 🌱 I’m currently learning **JavaScript** and **Flet**
+- 🌱 I’m currently learning **JavaScript** and **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manuelcsilva](https://github.com/manuelcsilva)
 
