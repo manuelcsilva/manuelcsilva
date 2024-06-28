@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, o meu nome é Manuel Silva</h1>
 <h3 align="center">A developer from Portugal</h3>
 
-- 🔭 I’m currently working on [DFROBOTgamepad](https://github.com/manuelcsilva/DFROBOTgamepad)
+- 🔭 I’m currently working on [MoneyTracker](https://github.com/manuelcsilva/MoneyTracker)
 
 - 🌱 I’m currently learning **JavaScript** and **Node.js**
 
