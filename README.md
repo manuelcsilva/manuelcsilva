@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MoneyTracker](https://github.com/manuelcsilva/MoneyTracker)
 
-- 🌱 I’m currently learning **JavaScript** and **Node.js**
+- 🌱 I’m currently learning **JavaScript**, **Node.js** and **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manuelcsilva](https://github.com/manuelcsilva)
 
